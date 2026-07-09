@@ -1,0 +1,1 @@
+- No mention of cursor in commits
