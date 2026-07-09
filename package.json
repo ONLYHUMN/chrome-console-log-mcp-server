@@ -1,6 +1,6 @@
 {
   "name": "@onlyhumn/chrome-console-log-mcp-server",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "MCP server for capturing Chrome console logs via CDP",
   "main": "server.js",
   "bin": {
